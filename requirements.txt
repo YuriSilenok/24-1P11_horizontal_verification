@@ -6,3 +6,5 @@ python-jose
 peewee
 python-multipart
 pyjwt
+flake8
+pylint
