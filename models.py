@@ -2,7 +2,7 @@
 
 from enum import Enum
 from peewee import SqliteDatabase, Model, CharField, BooleanField
-
+# pylint: disable=R0903
 
 db = SqliteDatabase("test.db")
 
